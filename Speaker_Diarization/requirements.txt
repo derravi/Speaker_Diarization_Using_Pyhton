@@ -1,0 +1,7 @@
+whisper
+torch
+numpy
+pydub
+scikit-learn
+pyannote.audio
+pathlib
